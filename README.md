@@ -1,2 +1,1 @@
-# img
-Images used in various Github readmes
+Couple of images being hosted here for used in various READMEs. Images here are updated when needed therefore other branches and forks don't get cluttered up with old versions of images.
